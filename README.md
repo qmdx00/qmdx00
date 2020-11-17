@@ -1,6 +1,3 @@
 ### Hi there 👋
-
-I was a Java programmer ever, now translate to Golang as a Gopher.
-Please contact me if you have any suggestions.
-
-Here is my email: qmdx00@gmail.com
+I used to be a java programmer and now use golang as the main language.
+Please contact me if you have any suggestions, here is my email: qmdx00@gmail.com
