@@ -1,4 +1,4 @@
 ### Hi there 👋
-I used to be a java programmer and now use golang as the main language.</br>
+I used to be a Java programmer and now use Golang as the main language.</br>
 Please contact me if you have any suggestions.</br>
-here is my email: qmdx00@gmail.com</br>
+Here is my email address: <a href="mailto:qmdx00@gmail.com"></a></br>
