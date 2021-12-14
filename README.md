@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmdx00&layout=compact&hide=html&show_icons=true" alt="Wimi's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmdx00&layout=compact&hide=java,html&show_icons=true" alt="Wimi's github stats" />
+
 
 ### Hi, I'm Wimi 👋
 😀 &nbsp; I use golang for daily work.</br>
