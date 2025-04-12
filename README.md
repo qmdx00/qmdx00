@@ -5,4 +5,4 @@
 🧐 &nbsp; I am also interested in Common Lisp.</br>
 
 ### Please contact me if you have any suggestions. ✉️
-Here is my email address: <a href="mailto:qmdx00@gmail.com">Wimi</a>
+Here is my email address: <a href="mailto:mail@wimi.space">Wimi</a>
